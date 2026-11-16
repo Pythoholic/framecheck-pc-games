@@ -1,0 +1,5 @@
+__pycache__/
+.build/
+*.pyc
+*.exe
+Game Readiness Report.html
